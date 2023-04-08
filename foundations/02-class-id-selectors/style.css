@@ -1,11 +1,15 @@
 .odd {
     background-color: hsla(0, 48%, 38%, 0.603);
-    font-family: verdana, 'DejaVu Sans', sans-serif;
+    font-family: verdana, "DejaVu Sans", sans-serif;
+}
+
+.bigger {
+    font-size: 24px;
 }
 
 #num2 {
     color: #1211ff;
-    font-size: 32px;
+    font-size: 36px;
 }
 
 #num4 {
@@ -14,6 +18,3 @@
     font-weight: 600;
 }
 
-.bigger {
-    font-size: 24px;
-}
